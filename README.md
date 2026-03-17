@@ -1,4 +1,4 @@
-## Setting Up Your Terraform Environment
+# Setting Up Your Terraform Environment
 
 # Set Up Your AWS Account
 # Step 1 — Create an AWS Account
